@@ -1,0 +1,59 @@
+{
+    "nombre": "Mis Héroes",
+    "heroes": [
+        {
+            "nombre": "Superman",
+            "poder" : "Todos",
+            "icon"  : "accessibility_new",
+            "color" : "#3498db"
+        },
+        {
+            "nombre": "Spiderman",
+            "poder" : "Sentido Arácnido",
+            "icon"  : "ac_unit",
+            "color" : "#e74c3c"
+        },
+        {
+            "nombre": "Ironman",
+            "poder" : "Armadura y Tecnología",
+            "icon"  : "android",
+            "color" : "#c0392b"
+        },
+        {
+            "nombre": "Wolverine",
+            "poder" : "Regeneración",
+            "icon"  : "healing",
+            "color" : "#f1c40f"
+        },
+        {
+            "nombre": "Dr. Manhattan",
+            "poder" : "Dios",
+            "icon"  : "access_time",
+            "color" : "#2980b9"
+        },
+        {
+            "nombre": "Batman",
+            "poder" : "Cochino Dinero",
+            "icon"  : "monetization_on",
+            "color" : "#2c3e50"
+        },
+        {
+            "nombre": "Shazam",
+            "poder" : "Magia",
+            "icon"  : "offline_bolt",
+            "color" : "#c0392b"
+        },
+        {
+            "nombre": "Thor",
+            "poder" : "Dios del rayo",
+            "icon"  : "title",
+            "color" : "#f1c40f"
+        },
+        {
+            "nombre": "Starlord",
+            "poder" : "Quien sabe",
+            "icon"  : "library_music",
+            "color" : "#c0392b"
+        }
+    ]
+}
